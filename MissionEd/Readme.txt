@@ -1,0 +1,2 @@
+We need to make an SQL table with "MissionEd" with Id="root" and Password blank with contents of "email", "username", "hackos".
+We need to open XAMPP server and start Apache and MySql and open "Update.php" through the localhost.
